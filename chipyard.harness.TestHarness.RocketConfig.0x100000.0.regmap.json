@@ -1,0 +1,31 @@
+{
+  "peripheral" : {
+    "displayName" : "clock-gater.At0x100000",
+    "baseAddress" : "0x100000",
+    "regfields" : [ {
+      "unnamedRegField0_0" : {
+        "byteOffset" : "0x0",
+        "bitOffset" : 0,
+        "bitWidth" : 1
+      }
+    }, {
+      "unnamedRegField4_0" : {
+        "byteOffset" : "0x4",
+        "bitOffset" : 0,
+        "bitWidth" : 1
+      }
+    }, {
+      "unnamedRegField8_0" : {
+        "byteOffset" : "0x8",
+        "bitOffset" : 0,
+        "bitWidth" : 1
+      }
+    }, {
+      "unnamedRegFieldc_0" : {
+        "byteOffset" : "0xc",
+        "bitOffset" : 0,
+        "bitWidth" : 1
+      }
+    } ]
+  }
+}
